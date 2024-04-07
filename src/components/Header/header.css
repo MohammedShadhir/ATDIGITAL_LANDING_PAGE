@@ -1,0 +1,17 @@
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+.navbar-nav {
+  padding: 10px;
+}
+.navbar-brand {
+  margin-left: 20px;
+}
+.navbar-toggler-icon {
+  color: white !important;
+}

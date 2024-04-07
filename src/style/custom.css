@@ -1,0 +1,32 @@
+:root {
+  --primary: #6f42c1; /* Custom bluish purple color */
+  --secondary: #f28d35; /* YUZU JAM */
+  --Analogous-Color-1: #6a44f2;
+  --Analogous-Color-2: #1cbddd;
+  --Triadic-Color-1: #52378c;
+  --Dark-Color-gradiyant: linear-gradient(to right, #4dca79, #78bf91, #1cbddd);
+}
+
+.custom-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.custom-secondary {
+  background-color: var(--secondary);
+  border-color: var(--secondary);
+}
+
+.custom-Analogous {
+  background-color: var(--Analogous-Color-1);
+  border-color: var(--Analogous-Color-1);
+}
+.Dark-Color-gradiyant {
+  background: var(--Dark-Color-gradiyant);
+  border-color: var(--Dark-Color-gradiyant);
+}
+
+.custom-hr {
+  height: 2px;
+  margin: 20px 0;
+}
